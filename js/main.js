@@ -7,4 +7,4 @@ numbers = function(list){
   return defoult;
 }
 
-console.debug(numbers(num));
+console.log(numbers(num));
